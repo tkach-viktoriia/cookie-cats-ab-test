@@ -8,7 +8,7 @@ The full analysis is available in the [Jupyter notebook](https://github.com/tkac
 
 - **Recommendation:** Keep the first gate at Level 30. Do not roll out the Level 40 update to production.
 - **Key Finding:** Shifting the gate to Level 40 systematically degrades Day 7 retention (dropping from 19.02% to 18.20%) and reduces the typical player's daily activity by 5.8%.
-- **Statistical Certainty:** A bootstrap analysis with 10,000 iterations confirms a 100% probability that the Level 30 gate yields higher long-term retention.
+- **Statistical Certainty:** A bootstrap analysis with 1,000 iterations confirms a 100% probability that the Level 30 gate yields higher long-term retention.
 
 ## Data Audit & Outlier Removal
 
@@ -42,12 +42,10 @@ The distribution of total game rounds is heavily right-skewed due to a small coh
 
 ## Repository Structure
 
-## Repository Structure
-
 - `cookie_cats_ab_test.ipynb` — Main analysis notebook
 - `cookie_cats.csv` — Raw dataset
 - `README.md`
 
 ## Data Source
 
-Dataset sourced from [Kaggle — Cookie Cats A/B Test](https://www.kaggle.com/datasets/mursideyarkin/mobile-games-ab-testing-cookie-cats)
+Dataset sourced from [Kaggle — Cookie Cats A/B Test](https://www.kaggle.com/datasets/mursideyarkin/mobile-games-ab-testing-cookie-cats).
