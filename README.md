@@ -88,7 +88,7 @@ A typical gate_30 player hits the forced break around Day 5.8 — just before th
 - `README.md`
 - `cookie_cats_ab_test.ipynb` — Main analysis notebook
 - `cookie_cats.csv` — Raw dataset
-- `cookie_cats.dashboard.png`
+- `cookie_cats_dashboard.png`
 
 ## Dashboard
 
