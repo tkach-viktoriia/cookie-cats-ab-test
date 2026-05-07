@@ -89,6 +89,10 @@ A typical gate_30 player hits the forced break around Day 5.8 — just before th
 - `cookie_cats.csv` — Raw dataset
 - `README.md`
 
+## Dashboard
+
+[View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/cata-btest/CookieCatsABTestAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## Data Source
 
 Dataset sourced from [Kaggle — Cookie Cats A/B Test](https://www.kaggle.com/datasets/mursideyarkin/mobile-games-ab-testing-cookie-cats).
