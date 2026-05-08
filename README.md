@@ -21,13 +21,14 @@ The dataset was checked for anomalies before any statistical tests were run. Two
 
 | Check | Result |
 |---|---|
-| Players in gate_30 | 44,700 |
-| Players in gate_40 | 45,489 |
-| Group balance ratio | 98.27% |
+| Players in gate_30 | 42,762 |
+| Players in gate_40 | 43,432 |
+| Group balance ratio | 98.45% |
 | Zero-round players removed | 3,994 (4.43%) |
+| Total players analyzed | 86,194 |
 | Day 1 / Day 7 retention correlation | 0.327 |
 
-The near-perfect group balance (98.27%) confirms that randomization was performed correctly, making the groups directly comparable. The moderate correlation (0.327) between Day 1 and Day 7 retention indicates that early engagement is a positive but non-deterministic signal for long-term retention.
+The near-perfect group balance (98.45%) confirms that randomization was performed correctly, making the groups directly comparable. The moderate correlation (0.327) between Day 1 and Day 7 retention indicates that early engagement is a positive but non-deterministic signal for long-term retention.
 
 The distribution of `sum_gamerounds` is heavily right-skewed, which is why the median is reported alongside the mean throughout this analysis.
 
