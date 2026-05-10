@@ -87,10 +87,9 @@ A typical gate_30 player hits the forced break around Day 5.8 — just before th
 ## Repository Structure
 
 - `README.md`
-- `customer_churn_analysis.ipynb` — Main analysis notebook
-- `customer_churn_dataset.csv` — Raw dataset
-- `customer_churn_cleaned.csv` — Cleaned dataset used for Tableau
-- `customer_churn_dashboard.png` — Tableau dashboard screenshot
+- `cookie_cats_ab_test.ipynb` — Main analysis notebook
+- `cookie_cats.csv` — Raw dataset
+- `cookie_cats_dashboard.png` — Tableau dashboard screenshot
 
 ## Dashboard
 
